@@ -13,7 +13,7 @@ Kodu sağ üstteki yeşil ok tuşuna basılarak çalıştırılır sonra kullan�
 
 ### Kurulum
 
-1. Proje dizinine gidin: `cd Bil458-hw1`
+1. Proje dizinine gidin: `cd proje_dizini`
 2. Projeyi derleyin: `javac Bil458.java`
 3. Uygulamayı başlatın: `java Bil458`
 
